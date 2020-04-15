@@ -1,7 +1,5 @@
 # Data Science Books
-Interesting books on data science I came across. 
-## [Feature Engineering for Machine Learning](https://www.repath.in/gallery/feature_engineering_for_machine_learning.pdf)
-Book on feature engineering including detailed techiques, caveats and practical applications
+Free interesting books on data science I came across. 
 
 ## [Natural Language Processing with Python](
 
