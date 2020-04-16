@@ -1,10 +1,13 @@
 # Data Science Books
-Interesting books on data science I came across. 
-## [Feature Engineering for Machine Learning](https://www.repath.in/gallery/feature_engineering_for_machine_learning.pdf)
-Book on feature engineering including detailed techiques, caveats and practical applications
+Free interesting books on data science I came across. 
 
-## [Natural Language Processing with Python](
+* [Deep Learning with PyTorch](https://www.manning.com/books/deep-learning-with-pytorch)
 
-## [Deep Learning with PyTorch](https://github.com/khuyentran1401/data-science-books/blob/master/Deep-Learning-with-PyTorch.pdf)
+* [Python Deep Learning_ Exploring deep learning techniques, neural network architectures and GANs with PyTorch, Keras](https://www.amazon.com/Python-Deep-Learning-techniques-architectures-ebook/dp/B07KQ29CQ3)
 
-## [
+* [Web Scaping with Python](https://www.amazon.com/Web-Scraping-Python-Collecting-Modern/dp/1491910291)
+
+* [Feature Engineering for Machine Learning](https://www.amazon.com/Feature-Engineering-Machine-Learning-Principles/dp/1491953241)
+
+* [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+* [Natural Language Processing with Python](https://www.amazon.com/Natural-Language-Processing-Python-Analyzing/dp/0596516495)
